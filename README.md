@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Data Structure and Algorithms
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ：941356826@qq.com
+- 📫 How to reach me ：hlm941356826@gmail.com
 
 
 <!---
